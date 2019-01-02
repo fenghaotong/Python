@@ -5,8 +5,7 @@ note@htfeng
 
 **目录**
 
-- [X] [A Byte of Python](A Byte of Python/README.md)
-- [X] [Code](Code/README.md)
+- [X] [A Byte of Python](AByteofPython/README.md)
 - [X] [DjangoProjectBlueprints](DjangoProjectBlueprints/README.md)
 - [X] [Django基础教程笔记](Django基础教程笔记/README.md)
 - [X] [jupyter-notebook插件](jupyter-notebook插件/README.md)
