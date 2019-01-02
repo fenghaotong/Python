@@ -13,27 +13,27 @@
 
 ### 目录
 
-- [x] [python的关键要素](pythonChapter1.ipynb)
+- [x] [python的关键要素](pythonChapter1.md)
 
-- [x] [数据类型](pythonChapter2.ipynb)
+- [x] [数据类型](pythonChapter2.md)
 
-- [x] [组合数据类型](pythonChapter3.ipynb)
+- [x] [组合数据类型](pythonChapter3.md)
 
-- [x] [控制结构](pythonChapter4.ipynb)
+- [x] [控制结构](pythonChapter4.md)
 
-- [x] [函数](pythonChapter5.ipynb)
+- [x] [函数](pythonChapter5.md)
 
-- [x] [模块和包](pythonChapter6.ipynb)
+- [x] [模块和包](pythonChapter6.md)
 
-- [x] [面向对象方法和类](pythonChapter7.ipynb)
+- [x] [面向对象方法和类](pythonChapter7.md)
 
-- [x] [文件](pythonChapter8.ipynb)
+- [x] [文件](pythonChapter8.md)
 
-- [x] [正则表达式](pythonChapter9.ipynb)
+- [x] [正则表达式](pythonChapter9.md)
 
-- [x] [错误与异常](pythonChapter10.ipynb)
+- [x] [错误与异常](pythonChapter10.md)
 
-- [x] [网络编程](pythonChapter11.ipynb)
+- [x] [网络编程](pythonChapter11.md)
 
-- [x] [进程与线程](pythonChapter12.ipynb)
+- [x] [进程与线程](pythonChapter12.md)
 
